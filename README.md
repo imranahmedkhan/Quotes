@@ -16,3 +16,10 @@ Push to GitHub automatically via Azure Pipelines every morning
 # Task Manager
 
 Added XML for Windows task scheduler tasks for fitness images, motivational images and motivational quotes
+
+
+We need three feeds:
+
+Motivation quote
+motivational Image
+Fitness images
