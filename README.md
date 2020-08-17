@@ -23,3 +23,10 @@ We need three feeds:
 Motivation quote
 motivational Image
 Fitness images
+
+
+https://api.telegram.org/bot<YourBOTToken>/getUpdates
+
+Use API to get the list of images, and then send the image to telegram
+https://wallhaven.cc/help/api
+
