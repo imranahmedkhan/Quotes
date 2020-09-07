@@ -9,6 +9,15 @@ trigger:
 pool:
   vmImage: 'ubuntu-latest'
 
+variables:
+  buildPlatform: 'Any CPU'
+  buildConfiguration: 'Release'
+  majorMinorVersion: 0.1
+  currentVersion: $(Build.BuildNumber)
+  currentDate: 2020
+
+name: $(majorMinorVersion)$(Rev:.r)
+
 steps:
 - checkout: self
   persistCredentials: true
