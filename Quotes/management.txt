@@ -64,3 +64,4 @@ Test fast, fail fast, adjust fast. - Tom Peters
 The leader is one who mobilizes others toward a goal shared by leaders and followers... Leaders, followers and goals make up the three equally necessary supports for leadership. - Gary Wills
 People ask the difference between a leader and a boss. The leader leads, and the boss drives. - Theodore Roosevelt
 Good leaders make people feel that they're at the very heart of things, not at the periphery. - Warren G. Bennis
+There's a tremendous bias against taking risks. Everyone is trying to optimize their ass-covering. - Elon Musk
