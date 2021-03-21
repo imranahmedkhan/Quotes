@@ -200,3 +200,4 @@ Management by objective works - if you know the objectives. Ninety percent of th
 The very essence of leadership is that you have to have a vision. - Theodore Hesburgh
 Leadership is practiced not so much in words as in attitude and in actions. - Harold S. Geneen
 Leaders are Readers - Charles Jones
+Test fast, fail fast, adjust fast. - Tom Peters
