@@ -30,6 +30,11 @@ steps:
 - checkout: self
   persistCredentials: true
 
+- script: |
+    git pull
+  workingDirectory: $(Build.SourcesDirectory)
+  displayName: 'Git Pull Before Retrieve'
+
 - task: PowerShell@2
   displayName: 'Retrieve daily quotes and write to files'
   inputs:
