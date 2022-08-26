@@ -31,7 +31,8 @@ steps:
   persistCredentials: true
 
 - script: |
-    git checkout master 
+    git checkout master
+    git reset --hard
     git pull
   workingDirectory: $(Build.SourcesDirectory)
   displayName: 'Git Pull Before Retrieve'
