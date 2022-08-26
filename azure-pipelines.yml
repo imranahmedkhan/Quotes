@@ -22,7 +22,7 @@ variables:
   buildConfiguration: 'Release'
   majorMinorVersion: 0.1
   currentVersion: $(Build.BuildNumber)
-  currentDate: 2020
+  currentDate: 2022
 
 name: $(majorMinorVersion)$(Rev:.r)
 
