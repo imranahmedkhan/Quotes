@@ -10,7 +10,7 @@ Pick a random inpiration quote from inspire.txt and send to Telegram
 
 Retrieve daily quotes from quotes.rest API, update quotes text files. This is because the quotes.rest API has a limit of 10 calls a day, so it makes sense to only get it once a day for each category ('inspire','management','sports', 'life', 'funny', 'love', 'art', 'students') and append them to a different text file.
 
-Push to GitHub automatically via Azure Pipelines every morning
+Push to GitHub automatically via Azure Pipelines every morning (This has issues with Azure scheduler, doesn't fire some mornings)
 
 
 # Task Manager
