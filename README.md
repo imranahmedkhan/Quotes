@@ -2,9 +2,9 @@
 
 Pick a random Motivational Quote Images from wallhaven and send to Telegram via telegram bot.
 
-Pick a random filtered Fitness Images from wallhaven and send to Telegram
+Pick a random filtered Fitness Images from wallhaven and send to Telegram.
 
-Pick a random inpiration quote from inspire.txt and send to Telegram
+Pick a random inpiration quote from inspire.txt and send to Telegram.
 
 # Retrieve daily quotes from API
 
